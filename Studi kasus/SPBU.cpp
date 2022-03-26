@@ -1,5 +1,10 @@
-#include<iostream>
+#include <conio.h>
+#include <ctime>
+#include <iostream>
 using namespace std;
-int main(){
-    cout<<"Fira";
+struct penjualan{
+	string nama;
+	float liter;
+	float hasil;
+	int n;
 }
